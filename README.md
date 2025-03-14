@@ -62,17 +62,6 @@ A **Next.js** web application to search and display real-time weather informatio
 
 ## 🚀 Live Demo
 
-- **[Vercel Deployment](https://your-vercel-domain.vercel.app/)**
-  or
-- **[Netlify Deployment](https://your-netlify-domain.netlify.app/)**
-
-*(Replace the above links with your actual live URLs)*
+- **[Netlify Deployment](https://weatherapplication02.netlify.app/)**
 
 ---
-
-## ⚙ Installation & Setup
-
-### 1️⃣ Clone or Download
-```bash
-git clone https://github.com/<YourUserName>/WeatherApp-Nextjs.git
-cd WeatherApp-Nextjs
